@@ -51,11 +51,11 @@ img {
     padding: 0 15px;
 }
 
-.nav{
+.menu{
     display: flex;
-    align-items: center;
-        gap: 24px;
-     justify-content: center;
+        align-items: center;
+    gap: 24px;
+        justify-content: center;
 }
 
 .page-nav {
@@ -64,11 +64,15 @@ img {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    display: flex;
+    gap: 40px;
 
 }
 
 .page-nav .link {
     color: #2E2F42;
+    padding: 24px 0;
+    display: inline-block;
 }
 
 .page-nav .link:hover {
