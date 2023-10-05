@@ -152,9 +152,10 @@ img {
     background-color: #404BBF;
 }
 
-.sections{
+.feature-section{
     padding: 120px 0;
 }
+
 .hidden{
         position: absolute;
         width: 1px;
