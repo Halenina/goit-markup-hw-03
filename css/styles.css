@@ -175,8 +175,8 @@ img {
     margin-right: 24px;
 }
 
-.section-list {
-    width: calc((100% - 72px) / 4);
+.activities {
+width: calc((100% - 3 * 24px) / 4);
 }
 
 .activities-header {
