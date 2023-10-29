@@ -99,18 +99,15 @@ img {
     display: flex;
     gap: 40px;
 }
-
-.contacts .link{
-list-style-type: none;
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-left: 0;
-}
 .address {
     color: #434455;
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    list-style-type: none;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-left: 0;
 }
 
 .address .link {
