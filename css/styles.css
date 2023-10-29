@@ -14,10 +14,6 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF; 
-    list-style-type: none;
-        margin-top: 0;
-        margin-bottom: 0;
-        padding-left: 0;
 }
 h1,
 h2,
@@ -41,6 +37,12 @@ img {
     display: block;
     max-width: 100%;
     height: auto;
+}
+ul {
+    list-style-type: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
 }
 
 .studio {
@@ -78,11 +80,6 @@ img {
     letter-spacing: 0.02em;
     display: flex;
     gap: 40px;
-    list-style-type: none;
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-left: 0;
-
 }
 
 .page-nav .link {
@@ -108,10 +105,6 @@ img {
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    list-style-type: none;
-        margin-top: 0;
-        margin-bottom: 0;
-        padding-left: 0;
 }
 
 .address .link {
