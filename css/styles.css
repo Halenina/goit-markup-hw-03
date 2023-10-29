@@ -1,6 +1,13 @@
 .logo {
     font-family: "Raleway", sans-serif;
-    
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+        display: inline-block;
+        margin-right: 76px;
 }
 
 body {
@@ -17,7 +24,15 @@ h6,
 p {
     margin: 0;
 }
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 
+a {
+    text-decoration: none;
+}
 img {
     display: block;
     max-width: 100%;
@@ -59,6 +74,10 @@ img {
     letter-spacing: 0.02em;
     display: flex;
     gap: 40px;
+    list-style-type: none;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-left: 0;
 
 }
 
