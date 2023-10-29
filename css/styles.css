@@ -11,9 +11,14 @@
 }
 
 body {
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    width: 1440px;
+    text-decoration: none;
 }
 h1,
 h2,
