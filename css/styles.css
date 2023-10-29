@@ -6,12 +6,12 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    
+    display: inline-block;
     margin-right: 76px;
 }
 
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto";
     color: #434455;
     background-color: #FFFFFF;
 }
