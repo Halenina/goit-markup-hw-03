@@ -13,12 +13,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #FFFFFF;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    width: 1440px;
-    text-decoration: none;
+    background-color: #FFFFFF; 
 }
 h1,
 h2,
@@ -28,6 +23,9 @@ h5,
 h6,
 p {
     margin: 0;
+}
+a {
+    text-decoration: none;
 }
 
 img {
@@ -71,6 +69,7 @@ img {
     letter-spacing: 0.02em;
     display: flex;
     gap: 40px;
+    list-style-type: none;
 
 }
 
